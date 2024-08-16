@@ -1,6 +1,6 @@
 # Spring Framework Demo
 
-This is a demo spring framework developed.
+This is a demo spring framework developed.[To explain MockServer : https://medium.com/@vasundharamane/achieve-early-testing-using-mockserver-57c43bab3e45]
 This is created to show how MockServer can be used lower envirnments where dependent external service is not available.
 
 ## Table of Contents
